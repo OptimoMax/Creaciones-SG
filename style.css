@@ -14,3 +14,10 @@
     background-color: #aa0000ff; /* Cambia este color al que desees */
     /* Puedes agregar más estilos aquí, como el color del texto, etc. */
 }
+
+.tarjetas{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(48, 24, 88); /* Cambia este color al que desees */
+    /* Puedes agregar más estilos aquí, como el color del texto, etc. */
+}
