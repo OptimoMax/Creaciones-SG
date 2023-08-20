@@ -1,0 +1,16 @@
+/* Media query para dispositivos móviles medianos en posición vertical */
+
+@media (min-width: 481px) and (max-width: 768px) {
+    body {
+        font-size: 18px;
+    }
+    /* Agregar estilos adicionales para este rango de resolución */
+    /* Por ejemplo, ajustes en el diseño, márgenes, padding, etc. */
+}
+
+
+
+.container-fluid {
+    background-color: #aa0000ff; /* Cambia este color al que desees */
+    /* Puedes agregar más estilos aquí, como el color del texto, etc. */
+}

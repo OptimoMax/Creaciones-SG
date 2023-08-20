@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="150mm"
+   height="50mm"
+   viewBox="0 0 150 50"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="sg1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.46235269"
+     inkscape:cx="395.80174"
+     inkscape:cy="554.77129"
+     inkscape:window-width="1360"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#aa0000;fill-opacity:1;stroke-width:0.481868"
+       d="M -1e-6,25.000001 V 2e-7 H 74.999985 150 V 25.000001 50 H 74.999985 -1e-6 Z"
+       id="path3" />
+    <g
+       id="g3"
+       transform="matrix(0.15143406,0,0,0.16183595,-83.291029,-72.5639)"
+       style="fill:#ffffff">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:200.911px;font-family:'Embassy BT';-inkscape-font-specification:'Embassy BT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:7.53417"
+         x="631.8111"
+         y="608.42371"
+         id="text2"
+         transform="scale(0.90153523,1.109219)"><tspan
+           sodipodi:role="line"
+           id="tspan2"
+           x="631.8111"
+           y="608.42371"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:200.911px;font-family:'Embassy BT';-inkscape-font-specification:'Embassy BT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:7.53417">Creaciones</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:211.843px;font-family:'Century751 No2 BT';-inkscape-font-specification:'Century751 No2 BT, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:7.94414"
+         x="1453.6726"
+         y="594.84186"
+         id="text2-0"
+         transform="scale(0.85959238,1.1633421)"><tspan
+           sodipodi:role="line"
+           id="tspan2-7"
+           x="1453.6726"
+           y="594.84186"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:211.843px;font-family:'Century751 No2 BT';-inkscape-font-specification:'Century751 No2 BT, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:7.94414">SG</tspan></text>
+    </g>
+  </g>
+</svg>
