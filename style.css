@@ -18,9 +18,18 @@
 .tarjetas{
     display: flex;
     flex-direction: row;
-    padding: 20px;
-    
     justify-content: space-evenly;
+    padding: 20px;
     background-color: #aa0000ff; /* Cambia este color al que desees */
     /* Puedes agregar más estilos aquí, como el color del texto, etc. */
 }
+
+
+
+.whatsapp-logo {
+    position: fixed;
+    width: 25px; /* Ancho del botón de WhatsApp */
+    bottom: 25px; /* Ajusta la posición vertical */
+    right: 100px; /* Ajusta la posición horizontal */
+    z-index: 999; /* Asegura que el botón esté por encima de otros elementos */
+  }
